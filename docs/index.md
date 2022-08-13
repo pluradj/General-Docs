@@ -12,57 +12,57 @@ TABLE OF CONTENTS
 
 ## Get started
 
-- [How this website works](How this website works)
-- [User guide - start here](User guide - start here)
-- [Install](Install)
-- [Lessons in basic skills](Lessons in basic skills)
-- [How to use this product](How to use this product)
-- [Typical goals](Typical goals)
-- [Basic solutions](Basic solutions)
-- [Feature introductions](Feature introductions)
-- [Overall Training](Overall Training)
-- [Basic Views Training](Basic Views Training)
-- [Workbench Training](Workbench Training)
-- [High Speed Techniques Training](High Speed Techniques Training)
+- [How this website works](Get started/How this website works)
+- [User guide - start here](Get started/User guide - start here)
+- [Install](Get started/Install)
+- [Lessons in basic skills](Get started/Lessons in basic skills)
+- [How to use this product](Get started/How to use this product)
+- [Typical goals](Get started/Typical goals)
+- [Basic solutions](Get started/Basic solutions)
+- [Feature introductions](Get started/Feature introductions)
+- [Overall Training](Get started/Overall Training)
+- [Basic Views Training](Get started/Basic Views Training)
+- [Workbench Training](Get started/Workbench Training)
+- [High Speed Techniques Training](Get started/High Speed Techniques Training)
 
 ## Workbench
 
-- [Workbench User Guide](Workbench User Guide)
-- [Workbench Overviews](Workbench Overviews)
-- [Workbench Screens](Workbench Screens)
-- [Workbench Admin Guide](Workbench Admin Guide)
+- [Workbench User Guide](Workbench/Workbench User Guide)
+- [Workbench Overviews](Workbench/Workbench Overviews)
+- [Workbench Screens](Workbench/Workbench Screens)
+- [Workbench Admin Guide](Workbench/Workbench Admin Guide)
 
 ## Workbench Logic Text
 
-- [Workbench Logic Text Intro](Workbench Logic Text Intro)
-- [Workbench Logic Text Types](Workbench Logic Text Types)
-- [Workbench Logic Text Syntax](Workbench Logic Text Syntax)
-- [Workbench Logic Text Summary Diagrams](Workbench Logic Text Summary Diagrams)
+- [Workbench Logic Text Intro](Workbench Logic Text/Workbench Logic Text Intro)
+- [Workbench Logic Text Types](Workbench Logic Text/Workbench Logic Text Types)
+- [Workbench Logic Text Syntax](Workbench Logic Text/Workbench Logic Text Syntax)
+- [Workbench Logic Text Summary Diagrams](Workbench Logic Text/Workbench Logic Text Summary Diagrams)
 
 ## Performance Engine (PE)
 
-- [Run Performance Engine (PE)](Run Performance Engine (PE))
-- [PE Checklists](PE Checklists)
-- [PE Programs](PE Programs)
-- [User-Exits](User-Exits)
-- [Sub-Programs](Sub-Programs)
-- [Run Control Utilities](Run Control Utilities)
-- [Compiler & Data Types](Compiler & Data Types)
+- [Run Performance Engine (PE)](Performance Engine (PE)/Run Performance Engine (PE))
+- [PE Checklists](Performance Engine (PE)/PE Checklists)
+- [PE Programs](Performance Engine (PE)/PE Programs)
+- [User-Exits](Performance Engine (PE)/User-Exits)
+- [Sub-Programs](Performance Engine (PE)/Sub-Programs)
+- [Run Control Utilities](Performance Engine (PE)/Run Control Utilities)
+- [Compiler & Data Types](Performance Engine (PE)/Compiler & Data Types)
 
 ## Errors
 
-- [Errors in PE Programs](Errors in PE Programs)
-- [Errors in User-Exits](Errors in User-Exits)
-- [Errors in Sub-Programs](Errors in Sub-Programs)
-- [Errors in Run Control Utilities](Errors in Run Control Utilities)
-- [Errors in Workbench](Errors in Workbench)
+- [Errors in PE Programs](Errors/Errors in PE Programs)
+- [Errors in User-Exits](Errors/Errors in User-Exits)
+- [Errors in Sub-Programs](Errors/Errors in Sub-Programs)
+- [Errors in Run Control Utilities](Errors/Errors in Run Control Utilities)
+- [Errors in Workbench](Errors/Errors in Workbench)
 
 ## Reference
 
-- [Publications](Publications)
-- [REA Accounting Guide](REA Accounting Guide)
-- [Frequently Asked Questions (FAQ)](Frequently Asked Questions (FAQ))
-- [Index](Website Index)
-- [About this website](About this website)
+- [Publications](Reference/Publications)
+- [REA Accounting Guide](Reference/REA Accounting Guide)
+- [Frequently Asked Questions (FAQ)](Reference/Frequently Asked Questions (FAQ))
+- [Index](Reference/Website Index)
+- [About this website](Reference/About this website)
 
 Updated 28 June, 2022
